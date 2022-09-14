@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>Olá, eu me chamo Victor Costa e este é o meu perfil aqui no GitHub.</h1>
+  <h1>Olá 👋 <br>
+  eu me chamo Victor Costa e este é o meu perfil aqui no GitHub.
+</h1>
   </div>
 <div align="center">
   <a href="https://github.com/victorcst">
