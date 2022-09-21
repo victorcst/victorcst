@@ -1,7 +1,11 @@
 <div align="center">
   <h1>Olá 👋 <br>
-  eu me chamo Victor Costa e este é o meu perfil aqui no GitHub.
-</h1>
+  Hello 👋<br>
+  </h1>
+  <h2>
+  eu me chamo Victor Costa e este é o meu perfil aqui no GitHub. <br>
+  I'm called Victor Costa and this is my profile here in Github.
+</h2>
   </div>
 <div align="center">
   <a href="https://github.com/victorcst">
