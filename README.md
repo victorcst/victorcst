@@ -8,9 +8,6 @@
   <img height="180em" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcst&layout=compact&langs_count=7&theme=synthwave"/>
   </div>
-  <div align="right">
-  <img src="https://cdn.discordapp.com/attachments/915150474536161280/1022955341618626680/36100.gif">
-  </div>
 <div align="center"><br>
   <img align="center" alt="cst-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="cst-Csharp" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg">
